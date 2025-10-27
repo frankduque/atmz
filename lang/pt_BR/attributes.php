@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'name' => 'Nome',
+    'description' => 'Descrição',
+    'address' => 'Endereço',
+    'street' => 'Rua',
+    'city' => 'Cidade',
+    'state' => 'Estado',
+    'zip_code' => 'CEP',
+    'ip_address' => 'Endereço IP',
+    'port' => 'Porta',
+    'model' => 'Modelo',
+    'channels' => 'Canais',
+    'channel' => 'Canal',
+    'status' => 'Status',
+    'type' => 'Tipo',
+    'url' => 'URL',
+    'username' => 'Usuário',
+    'password' => 'Senha',
+    'resolution' => 'Resolução',
+    'fps' => 'FPS',
+    'created_at' => 'Criado em',
+    'updated_at' => 'Atualizado em',
+    'last_seen' => 'Visto por último',
+    'last_command' => 'Último comando',
+];
